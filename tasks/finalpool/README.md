@@ -1,0 +1,98 @@
+# Final pool
+
+Promoted task implementations collected from the developers' branches of this repository.
+The task list here mirrors every task marked `implemented` in the Notion **Task Tracker / Task Status Table**
+after auditing the latest task-adding commit on every developer branch.
+
+Each task directory keeps the original task layout:
+
+- `docs/task.md` - task description
+- `docs/agent_system_prompt.md` - agent system prompt
+- `docs/user_system_prompt.md` - optional user system prompt
+- `evaluation/main.py` - optional evaluation script
+- `preprocess/main.py` - optional preprocessing script
+- `initial_workspace/`, `groundtruth_workspace/` - optional workspaces
+
+Requirements are documented in `tasks/examples/example-task`.
+
+## Tasks in this pool (79)
+
+- activity-logger (source: tasks/lueyang/activity-logger)
+- alert-system (source: tasks/yuzhen/alert-system)
+- analytics-dashboard (source: tasks/lv/analytics-dashboard)
+- asset-optimizer (source: tasks/yuxuan/asset-optimizer)
+- backup-utility (source: tasks/xiaochen/backup-utility)
+- blog-engine (source: tasks/gyy/blog-engine)
+- booking-system (source: tasks/junteng/booking-system)
+- cache-optimizer (source: tasks/wenshuo/cache-optimizer)
+- calendar-sync (source: tasks/junteng/calendar-sync)
+- canvas-automation (source: tasks/ruige/canvas-automation)
+- canvas-grade-automation (source: tasks/jl/canvas-grade-automation)
+- certificate-manager (source: tasks/zhaochen/certificate-manager)
+- chat-bot (source: tasks/lv/chat-bot)
+- client-portal (source: tasks/lueyang/client-portal)
+- cms-builder (source: tasks/gyy/cms-builder)
+- contact-manager (source: tasks/junteng/contact-manager)
+- content-manager (source: tasks/yuxuan/content-manager)
+- content-scheduler (source: tasks/gyy/content-scheduler)
+- coupon-manager (source: tasks/fan/coupon-manager)
+- crm-system (source: tasks/lueyang/crm-system)
+- customer-feedback-processor (source: tasks/jl/customer-feedback-processor)
+- customer-portal (source: tasks/junteng/customer-portal)
+- data-analytics (source: tasks/ruige/data-analytics)
+- data-validator (source: tasks/yuzhen/data-validator)
+- deal-manager (source: tasks/lueyang/deal-manager)
+- deployment-tool (source: tasks/xiaochen/deployment-tool)
+- discount-calculator (source: tasks/fan/discount-calculator)
+- email-campaign (source: tasks/lueyang/email-campaign)
+- email-classification-system (source: tasks/jl/email-classification-system)
+- error-tracker (source: tasks/xiaochen/error-tracker)
+- expense-tracker (source: tasks/ruige/expense-tracker)
+- feedback-collector (source: tasks/lv/feedback-collector)
+- file-manager (source: tasks/ruige/file-manager)
+- follow-up-reminder (source: tasks/lueyang/follow-up-reminder)
+- form-builder (source: tasks/yuzhen/form-builder)
+- health-monitor (source: tasks/xiaochen/health-monitor)
+- help-desk (source: tasks/junteng/help-desk)
+- image-processor (source: tasks/wenshuo/image-processor)
+- inventory-management (source: tasks/jl/inventory-management)
+- invoice-generator (source: tasks/yuzhen/invoice-generator)
+- load-balancer (source: tasks/zhaochen/load-balancer)
+- log-analyzer (source: tasks/ruige/log-analyzer)
+- loyalty-program (source: tasks/fan/loyalty-program)
+- media-organizer (source: tasks/haoze/media-organizer)
+- monitoring-agent (source: tasks/xiaochen/monitoring-agent)
+- network-analyzer (source: tasks/yuxuan/network-analyzer)
+- order-processor (source: tasks/junteng/order-processor)
+- payment-processor (source: tasks/yuzhen/payment-processor)
+- pdf-report-generator (source: tasks/jl/pdf-report-generator)
+- permission-manager (source: tasks/yuzhen/permission-manager)
+- personalization-service (source: tasks/lv/personalization-service)
+- price-tracker (source: tasks/fan/price-tracker)
+- product-catalog (source: tasks/junteng/product-catalog)
+- qr-generator (source: tasks/junxian/qr-generator)
+- reminder-service (source: tasks/junteng/reminder-service)
+- robots-handler (source: tasks/gyy/robots-handler)
+- sales-pipeline (source: tasks/lueyang/sales-pipeline)
+- scheduler (source: tasks/wenshuo/scheduler)
+- search-engine (source: tasks/wenshuo/search-engine)
+- security-scanner (source: tasks/xiaochen/security-scanner)
+- sentiment-analyzer (source: tasks/lv/sentiment-analyzer)
+- shipment-tracker (source: tasks/junteng/shipment-tracker)
+- sitemap-generator (source: tasks/gyy/sitemap-generator)
+- social-connector (source: tasks/junxian/social-connector)
+- social-publisher (source: tasks/gyy/social-publisher)
+- status-checker (source: tasks/xiaochen/status-checker)
+- storage-manager (source: tasks/zhaochen/storage-manager)
+- streaming-service (source: tasks/haoze/streaming-service)
+- subtitle-generator (source: tasks/haoze/subtitle-generator)
+- survey-builder (source: tasks/lv/survey-builder)
+- sync-service (source: tasks/yuxuan/sync-service)
+- tag-manager (source: tasks/gyy/tag-manager)
+- task-scheduler (source: tasks/yuxuan/task-scheduler)
+- template-engine (source: tasks/zhaochen/template-engine)
+- territory-manager (source: tasks/lueyang/territory-manager)
+- translation-api (source: tasks/junxian/translation-api)
+- video-trimmer (source: tasks/haoze/video-trimmer)
+- voice-processor (source: tasks/lv/voice-processor)
+- web-crawler (source: tasks/ruige/web-crawler)
